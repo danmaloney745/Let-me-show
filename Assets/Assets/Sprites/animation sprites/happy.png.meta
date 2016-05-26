@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 8c8ba1d3579f3df4e8a8f27dd92aa33c
+timeCreated: 1464262881
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: happy
+    21300002: happy_1
+    21300004: happy_2
+    21300006: happy_3
+    21300008: happy_4
+    21300010: happy_5
+    21300012: happy_6
+    21300014: happy_7
+    21300016: happy_8
+    21300018: happy_9
+    21300020: happy_10
+    21300022: happy_11
+    21300024: happy_12
+    21300026: happy_13
+    21300028: happy_14
+    21300030: happy_15
+    21300032: happy_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: happy
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 490
+        width: 83
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 108}
+        - {x: -41.5, y: -108}
+        - {x: 36.5, y: -108}
+        - {x: 41.5, y: -91}
+        - {x: 41.5, y: 94}
+        - {x: 39.5, y: 108}
+    - name: happy_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 488
+        width: 89
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 108}
+        - {x: -43.5, y: 105}
+        - {x: -44.5, y: 82}
+        - {x: -44.5, y: -102}
+        - {x: -25.5, y: -108}
+        - {x: 35.5, y: -108}
+        - {x: 35.5, y: 80}
+        - {x: 26.5, y: 108}
+      - - {x: 40.5, y: -73}
+        - {x: 40.5, y: -76}
+        - {x: 42.5, y: -78}
+        - {x: 44.5, y: -78}
+        - {x: 44.5, y: -71}
+        - {x: 42.5, y: -71}
+      - - {x: -44.5, y: -69}
+        - {x: -44.5, y: -76}
+        - {x: -42.5, y: -76}
+        - {x: -40.5, y: -74}
+        - {x: -40.5, y: -71}
+        - {x: -42.5, y: -69}
+      - - {x: 33.5, y: 15}
+        - {x: 33.5, y: 12}
+        - {x: 38.5, y: 9}
+        - {x: 40.5, y: 9}
+        - {x: 42.5, y: 10}
+        - {x: 42.5, y: 13}
+        - {x: 38.5, y: 18}
+        - {x: 36.5, y: 18}
+    - name: happy_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 488
+        width: 88
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 108}
+        - {x: -30, y: 108}
+        - {x: -44, y: 103}
+        - {x: -44, y: -108}
+        - {x: 26, y: -108}
+        - {x: 35, y: -104}
+        - {x: 35, y: -1}
+        - {x: 29, y: 102}
+      - - {x: 40, y: -73}
+        - {x: 40, y: -76}
+        - {x: 42, y: -78}
+        - {x: 44, y: -78}
+        - {x: 44, y: -71}
+        - {x: 42, y: -71}
+      - - {x: 33, y: 15}
+        - {x: 33, y: 12}
+        - {x: 38, y: 9}
+        - {x: 40, y: 9}
+        - {x: 42, y: 10}
+        - {x: 42, y: 13}
+        - {x: 38, y: 18}
+        - {x: 36, y: 18}
+    - name: happy_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 488
+        width: 77
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 108}
+        - {x: -38.5, y: -108}
+        - {x: 38.5, y: -108}
+        - {x: 38.5, y: 103}
+        - {x: 37.5, y: 108}
+    - name: happy_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 607
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: happy_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 488
+        width: 93
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 108}
+        - {x: -46.5, y: -108}
+        - {x: 46.5, y: -108}
+        - {x: 46.5, y: 88}
+        - {x: 41.5, y: 108}
+      - - {x: -46.5, y: -71}
+        - {x: -46.5, y: -78}
+        - {x: -44.5, y: -78}
+        - {x: -42.5, y: -76}
+        - {x: -42.5, y: -73}
+        - {x: -44.5, y: -71}
+    - name: happy_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 607
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: happy_7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 490
+        width: 100
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -108}
+        - {x: 41, y: -105}
+        - {x: 41, y: 44}
+        - {x: 36, y: 103}
+        - {x: 23, y: 108}
+        - {x: -50, y: 108}
+        - {x: -50, y: -108}
+      - - {x: -50, y: -73}
+        - {x: -50, y: -80}
+        - {x: -48, y: -80}
+        - {x: -46, y: -78}
+        - {x: -46, y: -75}
+        - {x: -48, y: -73}
+      - - {x: 46, y: -73}
+        - {x: 46, y: -76}
+        - {x: 48, y: -78}
+        - {x: 50, y: -78}
+        - {x: 50, y: -71}
+        - {x: 48, y: -71}
+      - - {x: 39, y: 15}
+        - {x: 39, y: 12}
+        - {x: 43, y: 9}
+        - {x: 46, y: 9}
+        - {x: 48, y: 10}
+        - {x: 48, y: 13}
+        - {x: 44, y: 18}
+        - {x: 42, y: 18}
+    - name: happy_8
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 490
+        width: 93
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 108}
+        - {x: -46.5, y: 100}
+        - {x: -46.5, y: -108}
+        - {x: 36.5, y: -108}
+        - {x: 36.5, y: 85}
+        - {x: 26.5, y: 108}
+      - - {x: 42.5, y: -73}
+        - {x: 42.5, y: -76}
+        - {x: 44.5, y: -78}
+        - {x: 46.5, y: -78}
+        - {x: 46.5, y: -71}
+        - {x: 44.5, y: -71}
+      - - {x: 36.5, y: 18}
+        - {x: 35.5, y: 16}
+        - {x: 35.5, y: 11}
+        - {x: 38.5, y: 9}
+        - {x: 42.5, y: 9}
+        - {x: 44.5, y: 10}
+        - {x: 44.5, y: 13}
+        - {x: 40.5, y: 18}
+    - name: happy_9
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 486
+        width: 80
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 100}
+        - {x: 19, y: 109}
+        - {x: -25, y: 109}
+        - {x: -34, y: 95}
+        - {x: -32, y: 80}
+        - {x: -10, y: 53}
+        - {x: -14, y: 48}
+        - {x: -18, y: 62}
+        - {x: -20, y: 64}
+        - {x: -40, y: 63}
+        - {x: -40, y: -104}
+        - {x: -17, y: -109}
+        - {x: 38, y: -109}
+        - {x: 40, y: -108}
+        - {x: 40, y: 17}
+        - {x: 38, y: 57}
+    - name: happy_10
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 606
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: happy_11
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 484
+        width: 93
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 110}
+        - {x: -38.5, y: 105}
+        - {x: -39.5, y: 75}
+        - {x: -21.5, y: 62}
+        - {x: -16.5, y: 58}
+        - {x: -23.5, y: 64}
+        - {x: -25.5, y: 65}
+        - {x: -29.5, y: 66}
+        - {x: -46.5, y: 60}
+        - {x: -46.5, y: 2}
+        - {x: -35.5, y: -93}
+        - {x: -30.5, y: -110}
+        - {x: -14.5, y: -104}
+        - {x: 4.5, y: -79}
+        - {x: 2.5, y: -72}
+        - {x: 7.5, y: -62}
+        - {x: 1.5, y: -107}
+        - {x: 4.5, y: -110}
+        - {x: 24.5, y: -110}
+        - {x: 39.5, y: -104}
+        - {x: 39.5, y: 93}
+        - {x: 38.5, y: 110}
+      - - {x: -5.5, y: -99}
+        - {x: -7.5, y: -100}
+        - {x: -7.5, y: -104}
+        - {x: -6.5, y: -106}
+        - {x: -2.5, y: -106}
+        - {x: 0.5, y: -105}
+        - {x: 0.5, y: -101}
+        - {x: -0.5, y: -99}
+      - - {x: -46.5, y: -71}
+        - {x: -46.5, y: -78}
+        - {x: -44.5, y: -78}
+        - {x: -42.5, y: -76}
+        - {x: -42.5, y: -73}
+        - {x: -44.5, y: -71}
+      - - {x: 42.5, y: -71}
+        - {x: 42.5, y: -75}
+        - {x: 44.5, y: -77}
+        - {x: 46.5, y: -77}
+        - {x: 46.5, y: -69}
+        - {x: 44.5, y: -69}
+      - - {x: 37.5, y: 19}
+        - {x: 35.5, y: 17}
+        - {x: 35.5, y: 13}
+        - {x: 38.5, y: 11}
+        - {x: 43.5, y: 11}
+        - {x: 44.5, y: 13}
+        - {x: 44.5, y: 17}
+        - {x: 41.5, y: 19}
+    - name: happy_12
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 488
+        width: 79
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 109}
+        - {x: -35.5, y: 95}
+        - {x: -31.5, y: 79}
+        - {x: -15.5, y: 61}
+        - {x: -12.5, y: 51}
+        - {x: -16.5, y: 41}
+        - {x: -15.5, y: 45}
+        - {x: -14.5, y: 51}
+        - {x: -19.5, y: 65}
+        - {x: -34.5, y: 61}
+        - {x: -39.5, y: 58}
+        - {x: -39.5, y: -109}
+        - {x: 39.5, y: -109}
+        - {x: 39.5, y: 109}
+    - name: happy_13
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 608
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: happy_14
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 492
+        width: 91
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 107}
+        - {x: -45.5, y: 7}
+        - {x: -45.5, y: -102}
+        - {x: -32.5, y: -107}
+        - {x: 36.5, y: -107}
+        - {x: 36.5, y: 65}
+        - {x: 23.5, y: 107}
+      - - {x: -45.5, y: -74}
+        - {x: -45.5, y: -81}
+        - {x: -43.5, y: -81}
+        - {x: -41.5, y: -79}
+        - {x: -41.5, y: -76}
+        - {x: -43.5, y: -74}
+      - - {x: 41.5, y: -72}
+        - {x: 41.5, y: -76}
+        - {x: 43.5, y: -78}
+        - {x: 45.5, y: -78}
+        - {x: 45.5, y: -70}
+        - {x: 43.5, y: -70}
+      - - {x: 37.5, y: 17}
+        - {x: 35.5, y: 15}
+        - {x: 35.5, y: 11}
+        - {x: 38.5, y: 9}
+        - {x: 43.5, y: 9}
+        - {x: 44.5, y: 11}
+        - {x: 44.5, y: 15}
+        - {x: 41.5, y: 17}
+    - name: happy_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 213
+        width: 86
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 107}
+        - {x: -43, y: 107}
+        - {x: -43, y: -33}
+        - {x: -33, y: -107}
+        - {x: -26, y: -107}
+        - {x: -20, y: -104}
+        - {x: 3, y: -77}
+        - {x: 4, y: -72}
+        - {x: 9, y: -69}
+        - {x: -3, y: -106}
+        - {x: 1, y: -107}
+        - {x: 25, y: -107}
+        - {x: 37, y: -96}
+        - {x: 37, y: -22}
+        - {x: 27, y: 100}
+      - - {x: -9, y: -102}
+        - {x: -7, y: -104}
+        - {x: -5, y: -104}
+        - {x: 0, y: -102}
+        - {x: 0, y: -97}
+        - {x: -1, y: -96}
+        - {x: -8, y: -96}
+        - {x: -9, y: -98}
+      - - {x: 39, y: -69}
+        - {x: 39, y: -73}
+        - {x: 41, y: -75}
+        - {x: 43, y: -75}
+        - {x: 43, y: -67}
+        - {x: 41, y: -67}
+      - - {x: 35, y: 19}
+        - {x: 32, y: 16}
+        - {x: 32, y: 13}
+        - {x: 35, y: 11}
+        - {x: 40, y: 11}
+        - {x: 41, y: 13}
+        - {x: 41, y: 17}
+        - {x: 38, y: 19}
+    - name: happy_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 213
+        width: 86
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 107}
+        - {x: -43, y: 94}
+        - {x: -43, y: -105}
+        - {x: -24, y: -107}
+        - {x: 33, y: -107}
+        - {x: 34, y: -106}
+        - {x: 34, y: 107}
+      - - {x: 38, y: -72}
+        - {x: 38, y: -76}
+        - {x: 40, y: -78}
+        - {x: 43, y: -78}
+        - {x: 43, y: -70}
+        - {x: 40, y: -70}
+      - - {x: 34, y: 17}
+        - {x: 32, y: 15}
+        - {x: 32, y: 13}
+        - {x: 34, y: 10}
+        - {x: 37, y: 9}
+        - {x: 39, y: 9}
+        - {x: 41, y: 10}
+        - {x: 41, y: 13}
+        - {x: 40, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

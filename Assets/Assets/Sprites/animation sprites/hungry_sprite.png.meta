@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: 08de76468902a86499cc57ab1f0e15e3
+timeCreated: 1458682886
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hungry_sprite_0
+    21300002: hungry_sprite_1
+    21300004: hungry_sprite_2
+    21300006: hungry_sprite_3
+    21300008: hungry_sprite_4
+    21300010: hungry_sprite_5
+    21300012: hungry_sprite_6
+    21300014: hungry_sprite_7
+    21300016: hungry_sprite_8
+    21300018: hungry_sprite_9
+    21300020: hungry_sprite_10
+    21300022: hungry_sprite_11
+    21300024: hungry_sprite_12
+    21300026: hungry_sprite_13
+    21300028: hungry_sprite_14
+    21300030: hungry_sprite_15
+    21300032: hungry_sprite_16
+    21300034: hungry_sprite_17
+    21300036: hungry_sprite_18
+    21300038: hungry_sprite_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hungry_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 243
+        width: 54
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 60.5}
+        - {x: -27, y: 60.5}
+        - {x: -27, y: -60.5}
+        - {x: 21, y: -60.5}
+        - {x: 25, y: -58.5}
+        - {x: 25, y: -0.5}
+        - {x: 22, y: 49.5}
+      - - {x: 22, y: 8.5}
+        - {x: 22, y: 6.5}
+        - {x: 25, y: 3.5}
+        - {x: 27, y: 4.5}
+        - {x: 27, y: 10.5}
+        - {x: 24, y: 10.5}
+    - name: hungry_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 241
+        width: 52
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 60.5}
+        - {x: -25, y: -60.5}
+        - {x: 12, y: -60.5}
+        - {x: 21, y: -55.5}
+        - {x: 26, y: -54.5}
+        - {x: 26, y: 60.5}
+      - - {x: -26, y: -41.5}
+        - {x: -23, y: -41.5}
+        - {x: -21, y: -39.5}
+        - {x: -22, y: -36.5}
+        - {x: -26, y: -36.5}
+    - name: hungry_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 244
+        width: 54
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 60}
+        - {x: -20, y: 52}
+        - {x: -25, y: 16}
+        - {x: -25, y: -60}
+        - {x: 26, y: -60}
+        - {x: 27, y: -54}
+        - {x: 27, y: 60}
+      - - {x: 24, y: -45}
+        - {x: 26, y: -47}
+        - {x: 27, y: -47}
+        - {x: 27, y: -40}
+        - {x: 24, y: -41}
+      - - {x: -27, y: 9}
+        - {x: -27, y: 2}
+        - {x: -24, y: 2}
+        - {x: -22, y: 4}
+        - {x: -22, y: 7}
+        - {x: -24, y: 9}
+    - name: hungry_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 309
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hungry_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 241
+        width: 50
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 60}
+        - {x: -25, y: -60}
+        - {x: 23, y: -60}
+        - {x: 25, y: -54}
+        - {x: 25, y: 60}
+      - - {x: 20, y: -41}
+        - {x: 20, y: -43}
+        - {x: 22, y: -45}
+        - {x: 25, y: -45}
+        - {x: 25, y: -39}
+        - {x: 22, y: -39}
+      - - {x: -25, y: -41}
+        - {x: -23, y: -41}
+        - {x: -21, y: -39}
+        - {x: -22, y: -36}
+        - {x: -25, y: -36}
+    - name: hungry_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 306
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hungry_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 241
+        width: 56
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 60}
+        - {x: -28, y: -60}
+        - {x: 18, y: -60}
+        - {x: 28, y: -37}
+        - {x: 28, y: 41}
+        - {x: 16, y: 60}
+      - - {x: -28, y: -39}
+        - {x: -28, y: -45}
+        - {x: -26, y: -45}
+        - {x: -24, y: -43}
+        - {x: -24, y: -41}
+        - {x: -26, y: -39}
+      - - {x: 21, y: -45}
+        - {x: 24, y: -44}
+        - {x: 24, y: -41}
+        - {x: 21, y: -40}
+        - {x: 19, y: -42}
+    - name: hungry_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 60
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 60.5}
+        - {x: -24, y: 60.5}
+        - {x: -28, y: -18.5}
+        - {x: -28, y: -60.5}
+        - {x: 18, y: -60.5}
+        - {x: 30, y: -30.5}
+        - {x: 30, y: 41.5}
+        - {x: 23, y: 55.5}
+      - - {x: 20, y: -38.5}
+        - {x: 20, y: -44.5}
+        - {x: 22, y: -45.5}
+        - {x: 26, y: -45.5}
+        - {x: 26, y: -38.5}
+      - - {x: -30, y: -38.5}
+        - {x: -30, y: -44.5}
+        - {x: -26, y: -44.5}
+        - {x: -24, y: -42.5}
+        - {x: -24, y: -40.5}
+        - {x: -26, y: -38.5}
+    - name: hungry_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 243
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 60.5}
+        - {x: -27.5, y: 60.5}
+        - {x: -28.5, y: 55.5}
+        - {x: -28.5, y: -60.5}
+        - {x: 13.5, y: -60.5}
+        - {x: 17.5, y: -59.5}
+        - {x: 28.5, y: -13.5}
+        - {x: 28.5, y: 27.5}
+      - - {x: -28.5, y: -41.5}
+        - {x: -28.5, y: -48.5}
+        - {x: -26.5, y: -48.5}
+        - {x: -24.5, y: -46.5}
+        - {x: -24.5, y: -43.5}
+        - {x: -26.5, y: -41.5}
+      - - {x: 19.5, y: -45.5}
+        - {x: 21.5, y: -47.5}
+        - {x: 24.5, y: -46.5}
+        - {x: 24.5, y: -43.5}
+        - {x: 22.5, y: -41.5}
+        - {x: 19.5, y: -42.5}
+    - name: hungry_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 240
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 60}
+        - {x: -30.5, y: 19}
+        - {x: -30.5, y: -60}
+        - {x: 13.5, y: -60}
+        - {x: 23.5, y: -50}
+        - {x: 23.5, y: 60}
+      - - {x: 26.5, y: -41}
+        - {x: 26.5, y: -44}
+        - {x: 28.5, y: -46}
+        - {x: 30.5, y: -46}
+        - {x: 30.5, y: -39}
+        - {x: 28.5, y: -39}
+      - - {x: -30.5, y: -35}
+        - {x: -30.5, y: -42}
+        - {x: -28.5, y: -42}
+        - {x: -26.5, y: -40}
+        - {x: -26.5, y: -37}
+        - {x: -28.5, y: -35}
+      - - {x: 22.5, y: 11}
+        - {x: 22.5, y: 5}
+        - {x: 23.5, y: 3}
+        - {x: 29.5, y: 3}
+        - {x: 29.5, y: 11}
+    - name: hungry_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 53
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 32}
+        - {x: 12.5, y: 32}
+        - {x: 14.5, y: 32}
+        - {x: 19.5, y: 36}
+        - {x: 23.5, y: 56}
+        - {x: 11.5, y: 60}
+        - {x: -26.5, y: 60}
+        - {x: -26.5, y: -60}
+        - {x: 7.5, y: -60}
+        - {x: 18.5, y: -48}
+        - {x: 26.5, y: -7}
+        - {x: 26.5, y: 19}
+        - {x: 21.5, y: 30}
+      - - {x: 20.5, y: -46}
+        - {x: 23.5, y: -45}
+        - {x: 23.5, y: -42}
+        - {x: 20.5, y: -41}
+        - {x: 18.5, y: -43}
+    - name: hungry_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 94
+        width: 52
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 60}
+        - {x: -18, y: 53}
+        - {x: -18, y: 41}
+        - {x: -25, y: -24}
+        - {x: -25, y: -60}
+        - {x: 24, y: -60}
+        - {x: 26, y: -53}
+        - {x: 26, y: 52}
+        - {x: 23, y: 60}
+      - - {x: 22, y: -41}
+        - {x: 22, y: -44}
+        - {x: 24, y: -46}
+        - {x: 26, y: -46}
+        - {x: 26, y: -39}
+        - {x: 24, y: -39}
+      - - {x: -26, y: -38}
+        - {x: -26, y: -45}
+        - {x: -23, y: -45}
+        - {x: -21, y: -43}
+        - {x: -21, y: -40}
+        - {x: -23, y: -38}
+    - name: hungry_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 158
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hungry_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 94
+        width: 50
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 60}
+        - {x: -20, y: 60}
+        - {x: -21, y: 37}
+        - {x: -25, y: 13}
+        - {x: -25, y: -60}
+        - {x: 12, y: -60}
+        - {x: 22, y: -49}
+        - {x: 25, y: -40}
+        - {x: 25, y: 57}
+      - - {x: -25, y: -39}
+        - {x: -25, y: -46}
+        - {x: -23, y: -46}
+        - {x: -21, y: -44}
+        - {x: -21, y: -41}
+        - {x: -23, y: -39}
+      - - {x: 21, y: -42}
+        - {x: 21, y: -44}
+        - {x: 23, y: -46}
+        - {x: 25, y: -46}
+        - {x: 25, y: -40}
+        - {x: 23, y: -40}
+    - name: hungry_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 94
+        width: 51
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 60}
+        - {x: -25.5, y: 53}
+        - {x: -25.5, y: -60}
+        - {x: 20.5, y: -60}
+        - {x: 25.5, y: -42}
+        - {x: 25.5, y: 59}
+        - {x: 20.5, y: 60}
+      - - {x: -23.5, y: -46}
+        - {x: -15.5, y: -46}
+        - {x: -15.5, y: -41}
+        - {x: -16.5, y: -39}
+        - {x: -22.5, y: -39}
+        - {x: -23.5, y: -41}
+      - - {x: 20.5, y: -41}
+        - {x: 20.5, y: -43}
+        - {x: 22.5, y: -45}
+        - {x: 25.5, y: -45}
+        - {x: 25.5, y: -39}
+        - {x: 22.5, y: -39}
+      - - {x: -24.5, y: 9}
+        - {x: -25.5, y: 8}
+        - {x: -25.5, y: 3}
+        - {x: -21.5, y: 3}
+        - {x: -19.5, y: 5}
+        - {x: -19.5, y: 6}
+        - {x: -22.5, y: 9}
+    - name: hungry_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 159
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hungry_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 95
+        width: 50
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 60}
+        - {x: -25, y: -58}
+        - {x: -23, y: -60}
+        - {x: 11, y: -60}
+        - {x: 25, y: -54}
+        - {x: 25, y: 53}
+        - {x: 20, y: 60}
+      - - {x: 22, y: -45}
+        - {x: 24, y: -47}
+        - {x: 25, y: -47}
+        - {x: 25, y: -40}
+        - {x: 22, y: -41}
+      - - {x: -25, y: -40}
+        - {x: -25, y: -46}
+        - {x: -23, y: -46}
+        - {x: -21, y: -44}
+        - {x: -21, y: -42}
+        - {x: -23, y: -40}
+    - name: hungry_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 160
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hungry_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 94
+        width: 61
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 60.5}
+        - {x: -30.5, y: 49.5}
+        - {x: -30.5, y: -60.5}
+        - {x: 22.5, y: -60.5}
+        - {x: 22.5, y: 52.5}
+        - {x: 17.5, y: 60.5}
+      - - {x: 26.5, y: -41.5}
+        - {x: 26.5, y: -44.5}
+        - {x: 28.5, y: -46.5}
+        - {x: 30.5, y: -46.5}
+        - {x: 30.5, y: -39.5}
+        - {x: 28.5, y: -39.5}
+      - - {x: -30.5, y: -43.5}
+        - {x: -28.5, y: -43.5}
+        - {x: -26.5, y: -41.5}
+        - {x: -27.5, y: -38.5}
+        - {x: -30.5, y: -38.5}
+      - - {x: 24.5, y: 11.5}
+        - {x: 22.5, y: 9.5}
+        - {x: 22.5, y: 6.5}
+        - {x: 24.5, y: 4.5}
+        - {x: 27.5, y: 4.5}
+        - {x: 29.5, y: 6.5}
+        - {x: 29.5, y: 9.5}
+        - {x: 27.5, y: 11.5}
+    - name: hungry_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 94
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 60.5}
+        - {x: -29.5, y: 60.5}
+        - {x: -29.5, y: -60.5}
+        - {x: 18.5, y: -60.5}
+        - {x: 22.5, y: -58.5}
+        - {x: 22.5, y: -0.5}
+        - {x: 19.5, y: 49.5}
+      - - {x: 24.5, y: -40.5}
+        - {x: 25.5, y: -43.5}
+        - {x: 29.5, y: -43.5}
+        - {x: 29.5, y: -38.5}
+        - {x: 26.5, y: -38.5}
+      - - {x: 19.5, y: 10.5}
+        - {x: 19.5, y: 5.5}
+        - {x: 20.5, y: 3.5}
+        - {x: 25.5, y: 3.5}
+        - {x: 26.5, y: 6.5}
+        - {x: 26.5, y: 10.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
